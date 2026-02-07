@@ -277,7 +277,7 @@ export default function Contador() {
 
       {/* Footer */}
       <p className="text-xs text-muted-foreground">
-        Feito com React + Vite
+        Feito com React por Daniel Fortes
       </p>
     </div>
   );
